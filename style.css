@@ -1,0 +1,19 @@
+body {
+    background-color: #1A328B;
+}
+
+table {
+    box-shadow: 0 0 50px 20px white;
+    margin: 7vh auto ;
+    background-color: white;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+td {
+    padding: 5px;
+}
